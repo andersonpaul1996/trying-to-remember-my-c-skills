@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567608045 source:d:\kirill\vuz\second semestr\oop\c++\trying to remember my c++ skills\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<string>
+
