@@ -9,7 +9,6 @@ using namespace std;
 
 class Json {
 public:
-    //  онструктор из строки, содержащей Json-данные.
     Json(const std::string& s){
         mapa[string("hello")] = s;
     }
